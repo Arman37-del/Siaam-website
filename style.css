@@ -1,7 +1,7 @@
 body {
     margin: 0%;
     font-family: 'Noto Sans', sans-serif;
-    background-color: rgb(39, 73, 73);
+    /* background-color: rgb(39, 73, 73); */
 }
 
 h1 {
@@ -43,7 +43,7 @@ section {
 
 .link-button {
     text-decoration: none;
-    background-image: linear-gradient(lightsalmon, tomato);
+    /* background-image: linear-gradient(lightsalmon, tomato); */
     padding: 10px 20px;
     border-radius: 5px;
     color: white;
@@ -80,6 +80,10 @@ section {
     border-image-slice: 1;
 }
 
+.bold {
+    color: rgb(0, 0, 0);
+}
+
 #baby-web {
     background-color: lightgray;
     border-left: 7px solid;
@@ -90,7 +94,7 @@ section {
 .footer-1 {
     text-align: center;
     position: absolute;
-    top: 1750px;
+    top: 1550px;
     left: 480px;
     font-size: 15px;
     color: darkgrey;
@@ -100,7 +104,7 @@ section {
     color: darkgrey;
     text-align: center;
     position: absolute;
-    top: 1750px;
+    top: 1550px;
     left: 620px;
     font-size: 15px;
 }
